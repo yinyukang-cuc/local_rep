@@ -2,7 +2,7 @@
   <div>
     <p></p>
     <ul>
-      <li v-for="item in data"></li>
+      <li v-for="(item, index) in data" :key="index"></li>
     </ul>
   </div>
 </template>
