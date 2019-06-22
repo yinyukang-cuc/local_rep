@@ -1,6 +1,9 @@
 <template>
   <div>
     <p></p>
+    <ul>
+      <li v-for="item in data"></li>
+    </ul>
   </div>
 </template>
 
@@ -46,5 +49,7 @@ export default {
 <style>
 .red {
   backgrond: red;
+}
+.blue {
 }
 </style>
