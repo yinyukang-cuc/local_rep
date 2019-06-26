@@ -5,11 +5,3 @@ success
 
 C:\Users\Administrator\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python37\;D:\Program Files\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;D:\Program Files\Fiddler
 
-
-lalala
-test
-gege
-
-lala
-ddddd
-hello
